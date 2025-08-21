@@ -5,6 +5,7 @@
   background-color: #00161c;
   padding: 10em 2em 3em 2em;
   color: #fff;
+  text-decoration: none;
 }
 
 
@@ -14,6 +15,7 @@
   font-family: 'Montserrat', serif;
   font-size: 2em;
   line-height: 1;
+  text-decoration: none;
 }
 
 .secaoDestaque-texto {
